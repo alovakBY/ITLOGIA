@@ -1,0 +1,28 @@
+@font-face {
+   font-family: "Muller";
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: local("MullerRegular"), url(./MullerRegular.ttf) format("truetype");
+}
+@font-face {
+   font-family: "Muller";
+   font-style: normal;
+   font-weight: 700;
+   font-display: swap;
+   src: local("MullerBold"), url(./MullerBold.ttf) format("truetype");
+}
+@font-face {
+   font-family: "Muller";
+   font-style: normal;
+   font-weight: 800;
+   font-display: swap;
+   src: local("MullerExtraBold"), url(./MullerExtraBold.ttf) format("truetype");
+}
+@font-face {
+   font-family: "Muller";
+   font-style: normal;
+   font-weight: 900;
+   font-display: swap;
+   src: local("MullerBlack"), url(./MullerBlack.ttf) format("truetype");
+}
